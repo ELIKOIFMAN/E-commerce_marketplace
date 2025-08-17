@@ -9,3 +9,8 @@ Management wants to understand how sales are performing across time, categories,
 3. Regional performance: Are certain regions consistently stronger or weaker?
 4. Payment method patterns: Are shifts in payment methods influencing revenue distribution?
 5. Product concentration: Do a few products dominate revenue (Pareto risk)?
+
+---
+
+## Source
+data source - https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data/data
